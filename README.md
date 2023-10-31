@@ -5,6 +5,7 @@ Unlike other existing benchmarks, Retail-71 includes its test set with three dif
 
 # Download
 You can download Retail-71: [Link](https://drive.google.com/file/d/1ySCLGlJ9KEo2dOTIpFs_kpFfI_pf1E8v/view?usp=sharing).
+
 When it comes to source domain, this dataset includes not only plain version (denoted as 0) but also augmented versions (denoted as 1, 2, 3, 4, 01, 02, ..., 0134, 01234) by rule-based synthesis (RS) .
 Note that target domain is NOT augmented by RS.
 
