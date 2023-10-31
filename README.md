@@ -26,6 +26,10 @@ Retail-71
 |  |_ 0
 |  |  |_ train  # source domain
 |  |  |  |_ 001  # class folder
+|  |  |  |  |_ <name_image1>.jpg
+|  |  |  |  |_ <name_image2>.jpg
+|  |  |  |  ...
+|  |  |  |  |_ <name_imageN>.jpg
 |  |  |  |_ 002
 |  |  |  ...
 |  |  |  |_ 071
