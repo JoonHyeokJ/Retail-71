@@ -3,6 +3,12 @@ We introduce Retail-71 whose source domain contains clean images of diverse prod
 
 Unlike other existing benchmarks, Retail-71 includes its test set with three difficulties, i.e. easy, medium, and hard level. Harder test set contains the test samples with more intensified motion blur and hand occlusion.
 
+## Some examples of source-domain images
+<img src="imgs/source-domain_examples.png" width="320">
+
+## Some examples of target-domain images
+<img src="imgs/target-domain_examples.png" width="320">
+
 # Download
 You can download Retail-71: [Link](https://drive.google.com/file/d/1ySCLGlJ9KEo2dOTIpFs_kpFfI_pf1E8v/view?usp=sharing).
 
