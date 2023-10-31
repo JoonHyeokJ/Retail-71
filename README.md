@@ -22,7 +22,7 @@ The structure of Retail-71 is as follows.
 
 ```bash
 Retail-71
-|_ retail71
+|_ retail71  # train set
 |  |_ 0
 |  |  |_ train  # source domain
 |  |  |  |_ 001  # class folder
@@ -45,7 +45,7 @@ Retail-71
 |  ...
 |  |_ 0134
 |  |_ 01234
-|_ test
+|_ test  # test set
 |  |_ 1  # difficulty: easy
 |  |  |_ train  # It is an empty folder
 |  |  |_ validation  # Test samples are here.
