@@ -1,5 +1,20 @@
 # License
-This dataset can only be used for scientific/non-commercial purposes. If you use this dataset in your research, please cite the corresponding paper (link will be added later).
+Retail-71 is proposed in the paper "Robust Unsupervised Domain Adaptation Through Negative-View Regularization" accepted to WACV 2024.
+
+This dataset can only be used for scientific/non-commercial purposes. If you use this dataset in your research, please cite the corresponding paper [(Link)](https://openaccess.thecvf.com/content/WACV2024/html/Jang_Robust_Unsupervised_Domain_Adaptation_Through_Negative-View_Regularization_WACV_2024_paper.html).
+
+You can use the following bibtex code.
+```bash
+@InProceedings{Jang_2024_WACV,
+    author    = {Jang, Joonhyeok and Lee, Sunhyeok and Kim, Seonghak and Kim, Jung-un and Kim, Seonghyun and Kim, Daeshik},
+    title     = {Robust Unsupervised Domain Adaptation Through Negative-View Regularization},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {2462-2471}
+}
+```
+
 
 # Retail-71 dataset for Domain Adaptation
 We introduce Retail-71 whose source domain contains clean images of diverse products commonly seen in market or convenience store, while its target domain broods images in which hand occlusion and motion blur exist. The domain shift between source and target domain is mainly from hand occlusion and motion blur, as well as a difference in background, resolution, lighting, device used to collect images, and so on.
